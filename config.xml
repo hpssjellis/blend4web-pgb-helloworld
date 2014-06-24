@@ -9,7 +9,7 @@
     <name>blend4web-pgb-helloworld</name>
 
     <description>
-        Hello World sample application that shows how to load the phones default browser.
+        Hello World sample application that shows how to load phonegap in with a Bled4Web page on the system browser
     </description>
 
 
