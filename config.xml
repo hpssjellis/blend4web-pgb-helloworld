@@ -60,7 +60,9 @@
     -->
    
 
-   <access origin="http://rocksetta.com" />   
+   <access origin="http://142.33.222.23/ellis" />   
+
+ <!--  <access origin="http://rocksetta.com" />    -->
    
   <!-- <access origin="*"  browserOnly="true"  />  -->
   <!-- <access origin="anyOldSite.com" browserOnly="true" /> -->
